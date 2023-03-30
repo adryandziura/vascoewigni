@@ -29,7 +29,7 @@
         background-color: #2804c47c
       }
       .corSecundaria {
-        background-color: #0c0b6d
+        background-color: #0400f5
       }
       p {
         font-family:Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -45,7 +45,7 @@
         padding-bottom: 20px;
         text-transform: uppercase;
         font-weight: 700;
-        color:white;
+        color:rgb(124, 122, 131);
       }
       .titulosVerdes {
         text-decoration: underline;
@@ -53,10 +53,10 @@
         padding-bottom: 20px;
         text-transform: uppercase;
         font-weight: 700;
-        color:#1089ec67;
+        color:#2600ff67;
       }
       .textoBranco {
-        color:white !important;
+        color:rgb(0, 0, 0) !important;
       }
       .jumbotron{
         margin-bottom: 0px;
